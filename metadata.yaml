@@ -1,0 +1,39 @@
+_repo: Narrative-of-a-Voyage-to-Senegal-in-1816--13-Undertaken-by-Order-of-the-French-Government-Com__11772
+_version: 0.0.1
+alternative_title: Naufrage de la frigate la Méduse. English
+creator:
+  authors:
+  - agent_name: Corréard, Alexandre
+    alias: Correard, Alexander
+    birthdate: 1788
+    deathdate: 1857
+    gutenberg_agent_id: '4105'
+    url: http://www.gutenberg.org/2009/agents/4105
+  - agent_name: Savigny, Jean Baptiste Henri
+    alias: Savigny, J. B. Henry
+    birthdate: 1793
+    deathdate: 1843
+    gutenberg_agent_id: '4106'
+    url: http://www.gutenberg.org/2009/agents/4106
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks -- Senegal'
+- !lcc 'G'
+- !lcsh 'Méduse (Ship)'
+- GITenberg
+title: "Narrative of a Voyage to Senegal in 1816\r\nUndertaken by Order of the French\
+  \ Government, Comprising an Account of the Shipwreck of the Medusa, the Sufferings\
+  \ of the Crew, and the Various Occurrences on Board the Raft, in the Desert of Zaara,\
+  \ at St. Louis, and at the Camp of Daccard. to Which Are Subjoined Observations\
+  \ Respecting the Agriculture of the Western Coast of Africa, from Cape Blanco to\
+  \ the Mouth of the Gambia."
+url: http://www.gutenberg.org/ebooks/11772
