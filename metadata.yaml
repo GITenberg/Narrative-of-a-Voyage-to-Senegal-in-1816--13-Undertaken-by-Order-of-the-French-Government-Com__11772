@@ -1,6 +1,9 @@
 _repo: Narrative-of-a-Voyage-to-Senegal-in-1816--13-Undertaken-by-Order-of-the-French-Government-Com__11772
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Naufrage de la frigate la Méduse. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Corréard, Alexandre
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '4106'
     url: http://www.gutenberg.org/2009/agents/4106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11772#Narrative-of-a-Voyage-to-Senegal-in-1816--13-Undertaken-by-Order-of-the-French-Government-Com_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
